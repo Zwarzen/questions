@@ -82,32 +82,6 @@
         "choice3": "16 November",
         "choice4": "15 September",
         "answer": 1
-    },
-    {
-        "question": "Kapan hari jadi Banyuwangi?",
-        "is_image": true,
-        "choice1": "gandrung.jpg",
-        "choice2": "gandrung.jpg",
-        "choice3": "gandrung.jpg",
-        "choice4": "gandrung.jpg",
-        "answer": 1
-    },
-    {
-        "question": "dimana saya sekarang",
-        "is_image": true,
-        "choice1": "gandrung.jpg",
-        "choice2": "gandrung.jpg",
-        "choice3": "gandrung.jpg",
-        "choice4": "gandrung.jpg",
-        "answer": 1
-    },
-    {
-        "question": "kenapa dina makan",
-        "is_image": true,
-        "choice1": "gandrung.jpg",
-        "choice2": "gandrung.jpg",
-        "choice3": "gandrung.jpg",
-        "choice4": "gandrung.jpg",
-        "answer": 1
     }
+    
 ]
