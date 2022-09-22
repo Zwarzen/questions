@@ -10,6 +10,7 @@
     },
     {
         "question": "Dimana Tour de Ijen dilaksanakan?",
+        "is_image": true,
         "choice1": "./assets/gunung/bromo.jpeg",
         "choice2": "./assets/gunung/semeru.jpg",
         "choice3": "./assets/gunung/ijen.jpg",
@@ -26,6 +27,7 @@
     },
     {
         "question": "Kendaraan Tawang Alun adalah?",
+        "is_image": true,   
         "choice1": "./assets/Tunggangan/kuda.png",
         "choice2": "./assets/Tunggangan/macanKumbang.jpg",
         "choice3": "./assets/Tunggangan/singa.jpg",
@@ -42,6 +44,7 @@
     },
     {
         "question": "Tempat Wisata di Banyuwangi yang terkenal akan Bukit Merah disekitar pantainya adalah?",
+        "is_image": true,
         "choice1": "./assets/pulauMerah/hillier.png",
         "choice2": "./assets/pulauMerah/pulaumerah/JPG",
         "choice3": "./assets/pulauMerah/telukijo.jpg",
