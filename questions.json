@@ -5,7 +5,7 @@
         "choice2": "Nangka",
         "choice3": "Durian",
         "choice4": "Sirsat",
-        "answer": 1
+        "answer": 4
     },
     {
         "question":
@@ -62,7 +62,7 @@
     },
 
     {
-        "question": "salah satu Hutan yang terkenal di Banyuwangi adalah?",
+        "question": "Salah satu Hutan yang terkenal di Banyuwangi adalah?",
         "choice1": "Hutan Malino",
         "choice2": "Alas Purwo",
         "choice3": "Wasur",
@@ -71,7 +71,7 @@
     },
 
     {
-        "question": "Camilan yang berasal dari Banyuwangi adalahh?",
+        "question": "Camilan yang berasal dari Banyuwangi adalah?",
         "choice1": "Bagiak",
         "choice2": "Bika Ambon",
         "choice3": "Kue Tat",
