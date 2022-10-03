@@ -70,12 +70,16 @@
         "question": "Dimana letak kota Banyuwangi?",
         "choice1": "Ujung Timur Jawa",
         "choice2": "Ujung Barat Jawa",
+	"choice3": "Ujung Selatan Jawa",
+        "choice4": "Ujung Utara Jawa",
         "answer": 1
     },
     {
         "question": "Julukan Banyuwangi?",
         "choice1": "Sunrise of Java ",
         "choice2": "Sunset of Java",
+	"choice3": "Sunrice of Java ",
+        "choice4": "Sun-Get of Java",
         "answer": 1
     },
     {
@@ -83,55 +87,71 @@
         "choice1": "Sego Tempong ",
         "choice2": "Ayama Lodho",
 	"choice3": "Rujak Soto",
+	"choice4": "Ayam Kesrut",
         "answer": 2
     },
     {
         "question": "Pelabuhan Banyuwangi adalah?",
         "choice1": "Pelabuhan Gilimanuk",
         "choice2": "Pelabuhan Ketapang",
+	"choice3": "Pelabuhan Tandjungperiuk",
+	"choice4": "Pelabuhan Putih",
         "answer": 2
     },
     {
         "question": "Nama Bupati Banyuwangi saat ini?",
         "choice1": "Ipuk Fiestiandani",
         "choice2": "Samsul Hadi",
-	       "choice3": "Ratna Ani Lestari",
+	"choice3": "Ratna Ani Lestari",
+	"choice4": "T. Purnomo Sidik",    
         "answer": 1
     },
     {
         "question": "Banyuwangi dikelilingi oleh 3 Taman Nasional. Salah satunya adalah ?",
         "choice1": "Alas Purwo",
         "choice2": "Baluran",
+	"choice3": "Karimun Jawa",
+        "choice4": "Gunung Leuser",
         "answer": 2
     },
     {
         "question": "Yang bukan nama Pantai di Banyuwangi?",
         "choice1": "Pulau Merah",
         "choice2": "Pantai Klayar",
-        "answer": 1
+	"choice3": "Teluk Ijo",
+        "choice4": "Pantai Sukamade",
+        "answer": 2
     },
     {
         "question": "Agenda Pariwisata Banyuwangi terangkum dalam?",
         "choice1": "Banyuwangi Fiesta",
         "choice2": "Banyuwangi Festival",
+	"choice3": "Banyuwangi Fever",
+        "choice4": "Banyuwangi la Fest",
         "answer": 2
     },
     {
         "question": "Apa sebutan buah sirsat di Banyuwangi?",
         "choice1": "Nangka Landa",
         "choice2": "Nangka Jawa",
+	"choice3": "Nangka Jakarta",
+	"choice4": "Nangka Jawa",
         "answer": 1
     },
     {
         "question": "Suku asli Banyuwangi adalah?",
         "choice1": "Osing",
         "choice2": "Tengger",
+	"choice3": "Batak",
+        "choice4": "Betawi",
         "answer": 1
     },
     {
         "question": "Atraksi seni kolosal di Banyuwangi adalah?",
         "choice1": "Barong Sewu",
         "choice2": "Gandrung Sewu",
+	"choice1": "Piring Sewu",
+        "choice2": "Lorong Sewu",
         "answer": 1
     },
     {
@@ -139,6 +159,7 @@
         "choice1": "Banteng",
         "choice2": "Singa",
        	"choice3": "Kuda",
+	"choice4": "Harimau",
         "answer": 1
     },
     {
@@ -146,6 +167,7 @@
         "choice1": "Pasirnya berwarna merah",
         "choice2": "Warna laut berwarna merah",
        	"choice3": "Bukit di sekitar pantai berwarna merah",
+	"choice4": "Langit di sekitar pantai berwarna merah",
         "answer": 3
     },
     {
@@ -153,6 +175,7 @@
         "choice1": "Dikelilingi hutan",
         "choice2": "Pasirnya berwarna hijau",
        	"choice3": "Lautnya berwarna Hijau",
+	"choice4": "Bebatuanya berwarna Hijau",
         "answer": 3
     },
     {
@@ -160,6 +183,7 @@
         "choice1": "Tour de Savana",
         "choice2": "Tour de Ijen",
        	"choice3": "Tour de Singkarak",
+	"choice3": "Tour de Jaya",
         "answer": 3
     },
     {
@@ -167,6 +191,7 @@
         "choice1": "Bandara Blambangan",
         "choice2": "Bandara Minakjinggo",
        	"choice3": "Bandara Banyuwangi",
+	"choice4": "Bandara Banyumas",
         "answer": 3
     },
     {
@@ -174,6 +199,7 @@
         "choice1": "Pegunungan",
         "choice2": "Pantai",
 	"choice3": "Agrowisata",
+	"choice4": "Dataran",
         "answer": 2
     },
     {
@@ -181,12 +207,15 @@
         "choice1": "Sukaku",
         "choice2": "Sukaria",
        	"choice3": "Sukamade",
+	"choice4": "Sukakamu",
         "answer": 3
     },
     {
         "question": "Ritual Agraris asal Banyuwangi adalah?",
         "choice1": "Kebo-Keboan",
         "choice2": "Karapan Sapi",
+	"choice1": "Majikeun Pare",
+        "choice2": "Karapan Ayam",
         "answer": 1
     },
     {
@@ -194,6 +223,7 @@
         "choice1": "Sritanjung Sidopekso",
         "choice2": "Bandung Bondowoso",
 	"choice3": "Roro Jonggrang",
+	"choice4": "Nyi Roro Kidul",
         "answer": 1
     },
     {
@@ -201,20 +231,7 @@
         "choice1": "Nadjem Makariem",
         "choice2": "Sri Mulyani",
 	"choice3": "Abdullah Azwar Anas",
-        "answer": 3
-    },
-    {
-        "question": "Mentri era Presiden Joko Widodo yang berasal dari Banyuwangi adalah?",
-        "choice1": "Nadjem Makariem",
-        "choice2": "Sri Mulyani",
-       	"choice3": "Abdullah Azwar Anas",
-        "answer": 3
-    },
-    {
-        "question": "Mentri era Presiden Joko Widodo yang berasal dari Banyuwangi adalah?",
-        "choice1": "Nadjem Makariem",
-        "choice2": "Sri Mulyani",
-       	"choice3": "Abdullah Azwar Anas",
+	"choice4": "T. Purnomo Sidik",
         "answer": 3
     },
     {
@@ -222,6 +239,7 @@
         "choice1": "Farel Prayoga",
         "choice2": "Inul Daratista",
        	"choice3": "Via Valen",
+	"choice4": "Dewi Persik",
         "answer": 1
     },
     {
@@ -229,6 +247,7 @@
         "choice1": "Pecel Pitik",
         "choice2": "Sego Tempong",
 	"choice3": "Sego Cawuk",
+	"choice4": "Sego Kucing",    
         "answer": 1
     },
     {
@@ -236,6 +255,7 @@
         "choice1": "Blambangan",
         "choice2": "Sriwijaya",
 	"choice3": "Pajajaran",
+	"choice4": "Tarumanegara",
         "answer": 1
     },
     {
@@ -243,6 +263,7 @@
         "choice1": "Pantai Plengkung",
         "choice2": "Pantai Parangtritis",
        	"choice3": "Pantai Banyubiru",
+	"choice4": "Pantai Boom",
         "answer": 1
     },
     {
@@ -250,6 +271,7 @@
         "choice1": "Glenmore",
         "choice2": "Sorborne",
 	"choice3": "Milan",
+	"choice4": "Arsenal",
         "answer": 1
     },
     {
@@ -257,6 +279,7 @@
         "choice1": "AGAA KHAN Award",
         "choice2": "AMI Award",
        	"choice3": "Cannes Award",
+	"choice4": "Grammy Award",
         "answer": 1
     },
     {
@@ -264,6 +287,7 @@
         "choice1": "2018",
         "choice2": "2019",
        	"choice3": "2020",
+	"choice4": "2021",
         "answer": 1
     },
     {
@@ -271,13 +295,15 @@
         "choice1": "Ikawangi",
         "choice2": "Poliwangi",
 	"choice3": "Joko Tole",
+	"choice4": "Jong Banyuwangi",
         "answer": 1
     },
     {
         "question": "Pejuang asal Banyuwangi yang melawan penjajahan Belanda adalah?",
         "choice1": "Rempeg Jogopati",
         "choice2": "Minnakjinggo",
-	       "choice3": "Pangeran Antasari",
+	"choice3": "Pangeran Antasari",
+	"choice4": "Gadjahmada",
         "answer": 2
     },
     {
@@ -285,6 +311,7 @@
         "choice1": "Pantai Boom",
         "choice2": "Pantai Cemara",
 	"choice3": "Pulau Merah",
+	"choice4": "Teluk Ijo",
         "answer": 1
     },
     
