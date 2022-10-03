@@ -89,7 +89,228 @@
         "choice3": "Gunung Semeru",
         "choice4": "Gunung Bromo",
         "answer": 1
-    }
+    },
+  {
+        "question": "Dimana letak kota Banyuwangi?",
+        "choice1": "Ujung Timur Jawa",
+        "choice2": "Ujung Barat Jawa",
+        "answer": 1
+    },
+  {
+        "question": "Julukan Banyuwangi?",
+        "choice1": "Sunrise of Java ",
+        "choice2": "Sunset of Java",
+        "answer": 1
+    },
+  {
+        "question": "Yang bukan makanan khas Banyuwangi?",
+        "choice1": "Sego Tempong ",
+        "choice2": "Ayama Lodho",
+	       "choice3": "Rujak Soto",
+        "answer": 2
+    },
+  {
+        "question": "Pelabuhan Banyuwangi adalah?",
+        "choice1": "Pelabuhan Gilimanuk",
+        "choice2": "Pelabuhan Ketapang",
+        "answer": 2
+    },
+  {
+        "question": "Nama Bupati Banyuwangi saat ini?",
+        "choice1": "Ipuk Fiestiandani",
+        "choice2": "Samsul Hadi",
+	       "choice3": "Ratna Ani Lestari",
+        "answer": 1
+    },
+   {
+        "question": "Banyuwangi dikelilingi oleh 3 Taman Nasional. Salah satunya adalah ?",
+        "choice1": "Alas Purwo",
+        "choice2": "Baluran",
+        "answer": 2
+    },
+   {
+        "question": "Yang bukan nama Pantai di Banyuwangi?",
+        "choice1": "Pulau Merah",
+        "choice2": "Pantai Klayar",
+        "answer": 1
+    },
+   {
+        "question": "Agenda Pariwisata Banyuwangi terangkum dalam?",
+        "choice1": "Banyuwangi Fiesta",
+        "choice2": "Banyuwangi Festival",
+        "answer": 2
+    },
+   {
+        "question": "Apa sebutan buah sirsat di Banyuwangi?",
+        "choice1": "Nangka Landa",
+        "choice2": "Nangka Jawa",
+        "answer": 1
+    },
+   {
+        "question": "Suku asli Banyuwangi adalah?",
+        "choice1": "Osing",
+        "choice2": "Tengger",
+        "answer": 1
+    },
+   {
+        "question": "Atraksi seni kolosal di Banyuwangi adalah?",
+        "choice1": "Barong Sewu",
+        "choice2": "Gandrung Sewu",
+        "answer": 1
+    },
+   {
+        "question": "Hewan endemik di TN Alas Purwo?",
+        "choice1": "Banteng",
+        "choice2": "Singa",
+       	"choice3": "Kuda",
+        "answer": 1
+    },
+   {
+        "question": "Kenapa Pulau Merah dinamakan demikian?",
+        "choice1": "Pasirnya berwarna merah",
+        "choice2": "Warna laut berwarna merah",
+       	"choice3": "Bukit di sekitar pantai berwarna merah",
+        "answer": 3
+    },
+   {
+        "question": "Daya tarik Teluk Ijo adalah?",
+        "choice1": "Dikelilingi hutan",
+        "choice2": "Pasirnya berwarna hijau",
+       	"choice3": "Lautnya berwarna Hijau",
+        "answer": 3
+    },
+   {
+        "question": "Balap sepeda yang rutin diselenggarakan di Banyuwangi adalah?",
+        "choice1": "Tour de Savana",
+        "choice2": "Tour de Ijen",
+       	"choice3": "Tour de Singkarak",
+        "answer": 3
+    },
+   {
+        "question": "Nama Bandara di Banyuwangi?",
+        "choice1": "Bandara Blambangan",
+        "choice2": "Bandara Minakjinggo",
+       	"choice3": "Bandara Banyuwangi",
+        "answer": 3
+    },
+   {
+        "question": "Watu Dodol di Banyuwangi adalah nama?",
+        "choice1": "Pegunungan",
+        "choice2": "Pantai",
+	       "choice3": "Agrowisata",
+        "answer": 2
+    },
+   {
+        "question": "Pantai di Banyuwangi yang merupakan habitat Penyu adalah pantai?",
+        "choice1": "Sukaku",
+        "choice2": "Sukaria",
+       	"choice3": "Sukamade",
+        "answer": 3
+    },
+   {
+        "question": "Ritual Agraris asal Banyuwangi adalah?",
+        "choice1": "Kebo-Keboan",
+        "choice2": "Karapan Sapi",
+        "answer": 1
+    },
+   {
+        "question": "Asal-usul Banyuwangi berasal dari Legenda?",
+        "choice1": "Sritanjung Sidopekso",
+        "choice2": "Bandung Bondowoso",
+	       "choice3": "Roro Jonggrang",
+        "answer": 1
+    },
+   {
+        "question": "Mentri era Presiden Joko Widodo yang berasal dari Banyuwangi adalah?",
+        "choice1": "Nadjem Makariem",
+        "choice2": "Sri Mulyani",
+	       "choice3": "Abdullah Azwar Anas",
+        "answer": 3
+    },
+   {
+        "question": "Mentri era Presiden Joko Widodo yang berasal dari Banyuwangi adalah?",
+        "choice1": "Nadjem Makariem",
+        "choice2": "Sri Mulyani",
+       	"choice3": "Abdullah Azwar Anas",
+        "answer": 3
+    },
+   {
+        "question": "Mentri era Presiden Joko Widodo yang berasal dari Banyuwangi adalah?",
+        "choice1": "Nadjem Makariem",
+        "choice2": "Sri Mulyani",
+       	"choice3": "Abdullah Azwar Anas",
+        "answer": 3
+    },
+   {
+        "question": "Nama Penyanyi asal Banyuwangi adalah?",
+        "choice1": "Farel Prayoga",
+        "choice2": "Inul Daratista",
+       	"choice3": "Via Valen",
+        "answer": 1
+    },
+   {
+        "question": "Apakah nama makanan Khas Banyuwangi berbahan dasar Ayam?",
+        "choice1": "Pecel Pitik",
+        "choice2": "Sego Tempong",
+	       "choice3": "Sego Cawuk",
+        "answer": 1
+    },
+    {
+        "question": "Nama Kerajaan di Banyuwangi sebelum berubah menjadi kota Banyuwangi?",
+        "choice1": "Blambangan",
+        "choice2": "Sriwijaya",
+	       "choice3": "Pajajaran",
+        "answer": 1
+    },
+    {
+        "question": "Pantai di Banyuwangi yang pernah menjadi tuan rumah kejuaraan Surfing dunia 2022?",
+        "choice1": "Pantai Plengkung",
+        "choice2": "Pantai Parangtritis",
+       	"choice3": "Pantai Banyubiru",
+        "answer": 1
+    },
+    {
+        "question": "Kecamatan di Banyuwangi yang memiliki nama khas Eropa adalah?",
+        "choice1": "Glenmore",
+        "choice2": "Sorborne",
+	       "choice3": "Milan",
+        "answer": 1
+    },
+    {
+        "question": "Bandara Internasional Banyuwangi pernah mendapat penghargaan arsitektur terbaik dalam penghargaan Internasional adalah penghargaan?",
+        "choice1": "AGAA KHAN Award",
+        "choice2": "AMI Award",
+       	"choice3": "Cannes Award",
+        "answer": 1
+    },
+   {
+        "question": "Kapan Geopark Ijen ditetapkan sebagai Geopark Indonesia?",
+        "choice1": "2018",
+        "choice2": "2019",
+       	"choice3": "2020",
+        "answer": 1
+    },
+   {
+        "question": "Apa nama paguyuban warga Banyuwangi yang tinggal merantau?",
+        "choice1": "Ikawangi",
+        "choice2": "Poliwangi",
+	       "choice3": "Joko Tole",
+        "answer": 1
+    },
+    {
+        "question": "Pejuang asal Banyuwangi yang melawan penjajahan Belanda adalah?",
+        "choice1": "Rempeg Jogopati",
+        "choice2": "Minnakjinggo",
+	       "choice3": "Pangeran Antasari",
+        "answer": 2
+    },
+    {
+        "question": "Pantai di Banyuwangi yang memiliki Marina(Dermaga Yacht)?",
+        "choice1": "Pantai Boom",
+        "choice2": "Pantai Cemara",
+	       "choice3": "Pulau Merah",
+        "answer": 1
+    },
     
   
 ]
